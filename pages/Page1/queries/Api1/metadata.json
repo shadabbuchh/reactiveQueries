@@ -49,7 +49,7 @@
     "dynamicBindingPathList": [],
     "name": "Api1",
     "pageId": "Page1",
-    "runBehaviour": "ON_PAGE_LOAD",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": true
   }
 }
