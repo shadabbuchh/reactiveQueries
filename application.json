@@ -81,6 +81,10 @@
       "isDefault": false
     },
     {
+      "id": "Calendar",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": false
     }

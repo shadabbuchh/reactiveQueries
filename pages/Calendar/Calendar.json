@@ -1,11 +1,12 @@
 {
-  "gitSyncId": "68230a3b31bf6d4e63f229c3_71cf120d-b94f-45ed-abc1-941535fa8ab6",
+  "gitSyncId": "68230a3b31bf6d4e63f229c3_d642aabf-c92c-4e3c-8d47-d18cdd7ec4c6",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 380,
+          "bottomRow": 90060,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -25,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Calendar",
+    "slug": "calendar"
   }
 }
