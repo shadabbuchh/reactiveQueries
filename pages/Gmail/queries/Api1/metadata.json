@@ -35,7 +35,7 @@
     ],
     "name": "Api1",
     "pageId": "Gmail",
-    "runBehaviour": "ON_PAGE_LOAD",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": true
   }
 }
