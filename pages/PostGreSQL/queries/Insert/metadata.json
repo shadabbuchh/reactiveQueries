@@ -27,7 +27,6 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "Insert",
     "pageId": "PostGreSQL",
     "runBehaviour": "MANUAL",

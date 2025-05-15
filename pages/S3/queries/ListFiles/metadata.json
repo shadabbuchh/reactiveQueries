@@ -79,7 +79,6 @@
       "pluginId": "amazons3-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
     "name": "ListFiles",
     "pageId": "S3",
     "runBehaviour": "ON_PAGE_LOAD",

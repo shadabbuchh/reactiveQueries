@@ -96,7 +96,6 @@
       "pluginId": "mongo-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "name": "InsertDoc",
     "pageId": "Mongo",
     "runBehaviour": "MANUAL",

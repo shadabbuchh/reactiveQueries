@@ -96,7 +96,6 @@
       "pluginId": "mongo-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
     "name": "FindDocs",
     "pageId": "Mongo",
     "runBehaviour": "ON_PAGE_LOAD",

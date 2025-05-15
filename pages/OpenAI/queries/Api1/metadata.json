@@ -40,7 +40,6 @@
       "pluginId": "Open AI"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
     "name": "Api1",
     "pageId": "OpenAI",
     "runBehaviour": "ON_PAGE_LOAD",

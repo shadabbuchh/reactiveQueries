@@ -17,7 +17,6 @@
       "name": "Redshift",
       "pluginId": "redshift-plugin"
     },
-    "executeOnLoad": true,
     "name": "Select",
     "pageId": "Redshift",
     "runBehaviour": "ON_PAGE_LOAD",

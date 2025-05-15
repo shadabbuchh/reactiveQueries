@@ -66,7 +66,6 @@
       "pluginId": "amazons3-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "name": "CreateNewFile",
     "pageId": "S3",
     "runBehaviour": "MANUAL",

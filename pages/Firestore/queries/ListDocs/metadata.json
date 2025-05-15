@@ -57,7 +57,6 @@
       "pluginId": "firestore-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
     "name": "ListDocs",
     "pageId": "Firestore",
     "runBehaviour": "ON_PAGE_LOAD",

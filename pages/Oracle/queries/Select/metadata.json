@@ -25,7 +25,6 @@
       "pluginId": "oracle-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
     "name": "Select",
     "pageId": "Oracle",
     "runBehaviour": "ON_PAGE_LOAD",

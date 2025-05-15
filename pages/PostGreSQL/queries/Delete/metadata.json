@@ -27,7 +27,6 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "Delete",
     "pageId": "PostGreSQL",
     "runBehaviour": "MANUAL",

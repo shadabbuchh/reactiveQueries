@@ -17,7 +17,6 @@
       "pluginId": "hubspot-1.2-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
     "name": "CRMListObjects",
     "pageId": "Hubspot",
     "runBehaviour": "ON_PAGE_LOAD",

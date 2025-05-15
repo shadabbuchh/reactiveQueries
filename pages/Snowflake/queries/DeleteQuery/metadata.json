@@ -22,7 +22,6 @@
       "name": "Snowflake",
       "pluginId": "snowflake-plugin"
     },
-    "executeOnLoad": false,
     "name": "DeleteQuery",
     "pageId": "Snowflake",
     "runBehaviour": "MANUAL",

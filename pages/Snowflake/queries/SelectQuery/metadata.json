@@ -22,7 +22,6 @@
       "name": "Snowflake",
       "pluginId": "snowflake-plugin"
     },
-    "executeOnLoad": true,
     "name": "SelectQuery",
     "pageId": "Snowflake",
     "runBehaviour": "ON_PAGE_LOAD",

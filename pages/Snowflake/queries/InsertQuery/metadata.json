@@ -22,7 +22,6 @@
       "name": "Snowflake",
       "pluginId": "snowflake-plugin"
     },
-    "executeOnLoad": false,
     "name": "InsertQuery",
     "pageId": "Snowflake",
     "runBehaviour": "MANUAL",
