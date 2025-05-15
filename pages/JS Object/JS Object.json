@@ -1,11 +1,12 @@
 {
-  "gitSyncId": "68230a3b31bf6d4e63f229c3_71cf120d-b94f-45ed-abc1-941535fa8ab6",
+  "gitSyncId": "68230a3b31bf6d4e63f229c3_f99ceaea-b7c2-4c09-b69b-d6b1cf03e7e9",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 1560,
+          "bottomRow": 380,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -25,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "JS Object",
+    "slug": "js-object"
   }
 }

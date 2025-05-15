@@ -1,23 +1,15 @@
 {
-  "gitSyncId": "68230a3b31bf6d4e63f229c3_58468ae2-8d0c-4fb4-b2cd-bb8e7b894e14",
-  "id": "Page1_Api2",
+  "gitSyncId": "68230a3b31bf6d4e63f229c3_7e5a24fc-cd5c-45a1-b271-94bbe933111d",
+  "id": "Slack_Api3",
   "pluginId": "slack",
   "pluginType": "EXTERNAL_SAAS",
   "unpublishedAction": {
     "actionConfiguration": {
       "encodeParamsToggle": true,
       "formData": {
-        "CUSTOM_ACTION": {
-          "headers": [
-            {
-              "key": "",
-              "value": ""
-            }
-          ]
-        },
         "SLACK_GET_USERS_BY_NAME": {
           "displayName": "",
-          "name": "Mohammad Shadab Buchh",
+          "name": "aparna ramachandran",
           "paginationParameters": ""
         },
         "SLACK_GET_USER_BY_EMAIL": {
@@ -55,9 +47,9 @@
       "pluginId": "slack"
     },
     "dynamicBindingPathList": [],
-    "name": "Api2",
-    "pageId": "Page1",
-    "runBehaviour": "MANUAL",
+    "name": "Api3",
+    "pageId": "Slack",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

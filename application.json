@@ -85,7 +85,15 @@
       "isDefault": false
     },
     {
-      "id": "Page1",
+      "id": "Slack",
+      "isDefault": false
+    },
+    {
+      "id": "JS Object",
+      "isDefault": false
+    },
+    {
+      "id": "AI",
       "isDefault": false
     }
   ],

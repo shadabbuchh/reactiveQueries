@@ -1,6 +1,6 @@
 {
   "gitSyncId": "68230a3b31bf6d4e63f229c3_d5166884-d399-419a-a249-0a4844821a3b",
-  "id": "Page1_Api1",
+  "id": "Slack_Api1",
   "pluginId": "slack",
   "pluginType": "EXTERNAL_SAAS",
   "unpublishedAction": {
@@ -48,7 +48,7 @@
     },
     "dynamicBindingPathList": [],
     "name": "Api1",
-    "pageId": "Page1",
+    "pageId": "Slack",
     "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
